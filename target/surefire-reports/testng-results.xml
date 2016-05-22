@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestPage.TestPage" duration-ms="119661" started-at="2016-05-22T23:48:31Z" finished-at="2016-05-22T23:50:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="119661" started-at="2016-05-22T23:48:31Z" finished-at="2016-05-22T23:50:31Z">
+      <class name="TestPage.TestPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestPage.TestPage@73f792cf]" name="setUp" is-config="true" duration-ms="5828" started-at="2016-05-22T19:48:31Z" finished-at="2016-05-22T19:48:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="NewTest()[pri:0, instance:TestPage.TestPage@73f792cf]" name="NewTest" duration-ms="113364" started-at="2016-05-22T19:48:37Z" finished-at="2016-05-22T19:50:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestPage.TestPage@73f792cf]" name="afterMethod" is-config="true" duration-ms="460" started-at="2016-05-22T19:50:30Z" finished-at="2016-05-22T19:50:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestPage.TestPage -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestPage.TestPage -->
+</testng-results>
